@@ -23,16 +23,7 @@ print(" >             <")
 print(">               <")
 
 print("M. A. S.  YESSSSSSSS")
-import time ; time.sleep(3)
-name=input('write your name:')
 import time ; time.sleep(2)
-print("")
-print("Give us a sec while we type your name into a sentence...")
-print("")
-import time ; time.sleep(2)
-print("did you know this dudes a bitch. who you ask? " + name)
-import time ; time.sleep(2)
-print("")
 i = 1
 while i <=10:
   print(i)
