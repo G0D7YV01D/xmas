@@ -3,12 +3,9 @@ import time ; time.sleep(3)
 print("")
 print("FOLLOW ME")
 print("""SNAPCHAT:gxreguy
-instagram:xmlven""")
+instagram:sxnflix""")
 import time ; time.sleep(3)
-usr=input('Enter Email Id:')  
-
-pwd=input('Enter Password:')  
-
+usr=input('Enter name:')    
 import time ; time.sleep(3)
 print("Hello, " + usr)
 import time ; time.sleep(3)
