@@ -1,6 +1,4 @@
-import usr
-usr=input('Enter name:') 
-print("hello, " + usr)
+
 print("Welcome to xmas")
 import time ; time.sleep(3)
 print("")
