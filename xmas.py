@@ -8,11 +8,11 @@ import time ; time.sleep(3)
 usr=input('Enter Email Id:')  
 
 pwd=input('Enter Password:')  
-print("————")
+
 import time ; time.sleep(3)
 print("Hello, " + usr)
 import time ; time.sleep(3)
-print("———-")
+
 print("did you just get trolled?")
 import time ; time.sleep(3)
 print(">              <")
