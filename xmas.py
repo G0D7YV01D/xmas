@@ -6,7 +6,6 @@ print("FOLLOW ME")
 print("""SNAPCHAT:gxreguy
 instagram:sxnflix""")
 import time ; time.sleep(3)
-ptint("")
 print(">              <")
 print(" >            <")
 print("  >          <")
